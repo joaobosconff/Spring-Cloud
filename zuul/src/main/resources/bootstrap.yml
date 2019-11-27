@@ -1,6 +1,6 @@
 spring:
   application:
-    name: my-zuul
+    name: zuul
   cloud:
     config:
       uri: http://localhost:9080
